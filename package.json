@@ -20,5 +20,12 @@
   "bugs": {
     "url": "https://github.com/Sunnysahu/Backend-with-ExpressJS/issues"
   },
-  "homepage": "https://github.com/Sunnysahu/Backend-with-ExpressJS#readme"
+  "homepage": "https://github.com/Sunnysahu/Backend-with-ExpressJS#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "dotenv": "^16.4.5",
+    "env": "^0.0.2",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
 }
